@@ -245,6 +245,11 @@ a:hover {
   border: 9px solid rgba(0, 0, 0, 0.05);
   margin: 0 auto;
 }
+#head img.img-logo {
+  height: 180px;
+  width: 422px;
+  margin-top: 10px;
+}
 #head .title {
   font-family: Alice, Georgia, serif;
   font-size: 49px;
