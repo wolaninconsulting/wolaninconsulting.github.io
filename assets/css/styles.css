@@ -276,7 +276,7 @@ a:hover {
   font-size: 1.5em;
 }
 .home #head {
-  padding: 90px 0;
+ /*  padding: 90px 0; */
 }
 .home #head .title {
   font-size: 49px;
