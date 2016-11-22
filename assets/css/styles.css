@@ -27,6 +27,7 @@ body {
   border-radius: 0;
   background-clip: padding-box;
   width: 100%;
+  min-height: 0px; /* tmp while hiding menu */
 }
 .navbar.stick {
   position: fixed;
