@@ -264,7 +264,7 @@ a:hover {
   display: block;
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.2em;
+  line-height: 2em;
   color: #000;
   margin: 5px 0 0;
 }
@@ -273,6 +273,7 @@ a:hover {
 }
 #head .tagline a {
   color: #5E5E5E;
+  font-size: 1.5em;
 }
 .home #head {
   padding: 90px 0;
